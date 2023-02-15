@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabridindar34. I'm not 34 yo. I'm 24.
+- 👋 Hi, I’m @sabridindar34. I'm 25.
 - 👀 I’m interested in football, basketball, coding, puzzling..
 - 🌱 I’m currently learning Python, C#, sql..
 - 📫 How to reach me @dindarsabri
